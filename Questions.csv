@@ -1,0 +1,35 @@
+﻿Group,Qnum,Label,C1,C2,C3,C4,
+Prelim,0,"For all journeys combined, in the past 12 months, how frequently have you used a car, truck, or van as a driver",,,,,
+Non-Driver,0,Const,-51.15977047,-65.93352682,-45.01229522,,
+Non-Driver,1,1. I am NOT the kind of person to use public transportation,1.736682688,0.425298343,2.294056525,,
+Non-Driver,2,2. My employer reimburses bicycle commuting expenses,3.45801273,2.019582753,2.797791134,,
+Non-Driver,3,3. I like traveling by subway or elevated,1.77870747,1.824563203,0.51684136,,
+Non-Driver,4,4. I do NOT need to have a car/truck/van,2.822550224,3.742221526,1.93985546,,
+Non-Driver,5,5. I like traveling by taxicab,1.631276617,1.381340325,0.494862885,,
+Non-Driver,6,6. Traffic congestion is a problem in my local area,1.416914675,2.496841737,2.482602546,,
+Non-Driver,7,7. I have no need to drive as public transport/walking/cycling are all adequate,1.35071083,4.942612593,1.735704892,,
+Non-Driver,8,"8. In general, I would rather walk than use the bus",2.641492315,3.776905407,2.72952645,,
+Non-Driver,9,9. I like traveling by ferryboat,3.260555057,4.085195054,2.496602077,,
+Non-Driver,10,10. I feel a moral obligation to reduce the emission of greenhouse gases,3.92642813,5.176431706,3.694917397,,
+Non-Driver,11,11. I like traveling by local bus or trolley bus,3.207816503,4.009022949,2.733876995,,
+Non-Driver,12,12. There are many problems with using public transportation,2.481908759,2.354442079,3.507505157,,
+Non-Driver,13,13. I do NOT know anyone with whom to carpool,2.488264241,3.092770483,3.233083052,,
+Non-Driver,14,14. Walking can be the quickest way to travel for short journeys,1.802214113,1.906378201,1.009705503,,
+Non-Driver,15,15. I had a bad experience as a carpool passenger in the past,-0.22248223,-1.145878133,-0.547116309,,
+Non-Driver,16,16. Finding a parking space at work is difficult,1.3353058,1.399999717,0.558708068,,
+Driver,0,Const,-68.56516832,-60.33962941,-78.14651559,-74.50569857,
+Driver,17,1. I like traveling by bicycle,2.905661909,2.554319724,3.668961656,3.555862509,1
+Driver,18,2. Reducing my car/truck/van use would make me feel good,3.595254751,2.692677222,4.112845548,3.470244799,2
+Driver,19,3. I like traveling by streetcar or trolley car,2.185959729,1.076669652,2.361705021,1.712920683,3
+Driver,20,4. I feel a moral obligation to reduce the emission of greenhouse gases,5.397931465,4.49374835,6.237710841,5.41116788,4
+Driver,21,5. I am NOT the kind of person to use public transportation,2.453001882,3.144805621,1.994778425,2.895021196,5
+Driver,22,6. I am NOT the kind of person who rides a bicycle,4.235096038,4.112064088,3.472310009,3.438138739,6
+Driver,23,7. Driving gives me a way to express myself,2.32546713,2.751895065,2.088113353,2.870014749,7
+Driver,24,"8. I would rather be a carpool passenger to read, use smartphones, or sleep on the way to work",1.633833275,0.94352815,2.133291239,1.776197742,8
+Driver,25,9. I like traveling by walking (to/from destination),3.377261757,2.70210667,3.841052075,3.733699389,9
+Driver,26,"10. In general, I would rather bicycle than use the bus",2.061141114,2.144683115,2.801682658,2.857661371,10
+Driver,27,"11. If I could, I would gladly do without a car/truck/van",1.616950911,0.995732129,2.027261952,1.269987512,11
+Driver,28,12. I like traveling by ferryboat,2.274659093,1.280232079,2.678375606,2.145377097,12
+Driver,29,13. People should be allowed to use their cars/trucks/vans as much as they like,5.719156613,6.427247016,5.656504939,6.415808245,13
+Driver,30,14. Environmental threats such as global warming have been exaggerated,2.201390308,2.591919131,1.675650616,2.201628779,14
+Driver,31,15. I tend NOT to walk much because I am not fit enough,2.109814202,1.682622559,1.580925088,1.732701324,15
